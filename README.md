@@ -69,10 +69,11 @@ This project is an Android version of the popular 2048 game created mainly for p
 ```
 ## Screenshots
 
-<img src="images/2048_main_screen.jpg" alt="Main Screen" width="400" height="500"> 
-<img src="images/2048_game_screen.jpg" alt="Game Screen" width="400" height="500"> 
-<img src="images/2048_info_screen.jpg" alt="Info Screen" width="400" height="500"> 
-
+<div style="display: flex; gap: 10px;">
+  <img src="images/2048_main_screen.jpg" alt="Main Screen" style="width: 300px; height: auto;">
+  <img src="images/2048_game_screen.jpg" alt="Game Screen" style="width: 300px; height: auto;">
+  <img src="images/2048_info_screen.jpg" alt="Info Screen" style="width: 300px; height: auto;">
+</div>
 
 ## Contributing
 
