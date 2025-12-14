@@ -67,6 +67,11 @@ This project is an Android version of the popular 2048 game created mainly for p
 ├── build.gradle
 └── settings.gradle
 ```
+## Screenshots
+
+# Main screen :
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/9d0eb85f-4013-4889-b97d-06aa1c03c7f7" />
+
 
 ## Contributing
 
